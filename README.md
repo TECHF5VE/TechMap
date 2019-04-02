@@ -10,6 +10,7 @@
 * [后端小组](2019-spring/backend)
 * [操作系统](2019-spring/os)
 * [Python/爬虫](2019-spring/python)
+* [每周选做题](2019-spring/extra)
 
 ## 值得注意的是
 
