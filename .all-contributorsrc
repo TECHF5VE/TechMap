@@ -54,6 +54,15 @@
         "content",
         "review"
       ]
+    },
+    {
+      "login": "FredZeng",
+      "name": "FredTsang",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/17154608?v=4",
+      "profile": "https://github.com/FredZeng",
+      "contributions": [
+        "review"
+      ]
     }
   ],
   "contributorsPerLine": 7,
