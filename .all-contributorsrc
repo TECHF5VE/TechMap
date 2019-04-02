@@ -24,6 +24,16 @@
         "content",
         "review"
       ]
+    },
+    {
+      "login": "squareWU",
+      "name": "Wu shaohong",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/32816850?v=4",
+      "profile": "https://github.com/squareWU",
+      "contributions": [
+        "content",
+        "review"
+      ]
     }
   ],
   "contributorsPerLine": 7,
