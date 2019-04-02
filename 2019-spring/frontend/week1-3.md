@@ -50,9 +50,9 @@ Author： Minoyu 于 2019/04/02
 
 ### 3.迈出JavaScript的第一步
 
-很多人认为，与相关技术如 HTML 和 CSS 相比，学习 JavaScript 更为困难。在尝试学习 JavaScript 之前，我们强烈建议你首先至少熟悉上述这两种技术，一些其他语言的编程经验可能也许会有帮助。
+很多人认为，与相关技术如 HTML 和 CSS 相比，学习 JavaScript 更为困难。在尝试学习 JavaScript 之前，我们强烈建议你首先至少熟悉上述这两种技术，一些其他语言的编程经验也许会有帮助。
 
-请在课余时间按顺序阅读下面的几篇MDN学习指南
+**请在课余时间按顺序阅读** 下面的几篇MDN学习指南
 
 1. [什么是 JavaScript？](https://developer.mozilla.org/zh-CN/docs/Learn/JavaScript/First_steps/What_is_JavaScript)
 2. [JavaScript 初体验](https://developer.mozilla.org/zh-CN/docs/Learn/JavaScript/First_steps/A_first_splash)
@@ -67,10 +67,10 @@ Author： Minoyu 于 2019/04/02
 
 通过这一阶段的学习,相信你的收获已经不少了。下面是这一阶段你需要完成的成果展示，希望你可以用心去完成。
 
-### **制作一个简单的个人名片页**
+### **制作一个简单的个人名片页 展示你自己**
 
 请尽可能的在这个项目中展示出你在这三周内所学到的知识，你可以放在github page上作为你的个人主页展示,Happy coding~
 
 ---
 
-## 这次任务计划用时三周左右，时间充裕，希望第一次的任务各位可以用心的去完成。五一结束前，展示你的成果吧 :)
+## 这次任务计划用时三周左右，时间充裕，希望第一次的任务各位可以用心的去完成。五一休假结束前，展示你的成果吧 :)
