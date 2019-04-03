@@ -2,6 +2,8 @@
 
 ## 本次作业计划用时三周,期间每周末交流各位的进度和遇到的问题。五一节休假结束前，展示你的成果吧:)
 
+### 本次作业若遇到任何问题，[都可在此issue中讨论](https://github.com/TECHF5VE/TechMap/issues/7)。
+
 Author： Minoyu 于 2019/04/02
 
 ---
