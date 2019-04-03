@@ -2,7 +2,7 @@
 
 [![All Contributors](https://img.shields.io/badge/all_contributors-6-orange.svg?style=flat-square)](#contributors)
 
-欢迎加入TECH5，这里是TECH5新成员的阶段性考核作业仓库。希望你可以通过完成在这里布置的任务/作业来快速成长。
+欢迎加入TECH5，这里是TECH5新成员的阶段性考核作业仓库。希望你可以通过完成在这里提供的任务/作业来快速成长。
 
 ## 目前此处存放
 
@@ -33,9 +33,12 @@
 * 如在学习路上遇到困难，欢迎和组内其他成员一同探讨，通过分享交流找寻下一步的方向。
 * 最后，TF5不是培训机构，没有谁必须有义务帮助/回答的情况，帮助是出于自愿的，应当保持基本礼貌。
 
+## License
+This Project is [996ICU licensed.](./LICENSE.996ICU)
+
 ## Contributors
 
-Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+Thanks goes to these wonderful people:
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore -->
