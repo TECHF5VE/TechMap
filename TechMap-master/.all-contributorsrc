@@ -1,0 +1,74 @@
+{
+  "projectName": "TechMap",
+  "projectOwner": "TECHF5VE",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "Minoyu",
+      "name": "Mino Yu",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/21097448?v=4",
+      "profile": "http://we.sharelove.site",
+      "contributions": [
+        "content",
+        "design",
+        "review"
+      ]
+    },
+    {
+      "login": "DominikYang",
+      "name": "DominikYang",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/32817649?v=4",
+      "profile": "https://github.com/DominikYang",
+      "contributions": [
+        "content",
+        "review"
+      ]
+    },
+    {
+      "login": "squareWU",
+      "name": "Wu shaohong",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/32816850?v=4",
+      "profile": "https://github.com/squareWU",
+      "contributions": [
+        "content",
+        "review"
+      ]
+    },
+    {
+      "login": "FrancisQiang",
+      "name": "FrancisQiang",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/41600119?v=4",
+      "profile": "https://github.com/FrancisQiang",
+      "contributions": [
+        "content",
+        "review"
+      ]
+    },
+    {
+      "login": "TuringCodeOne",
+      "name": "Peng Tsinv",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/32813194?v=4",
+      "profile": "https://github.com/TuringCodeOne",
+      "contributions": [
+        "content",
+        "review"
+      ]
+    },
+    {
+      "login": "FredZeng",
+      "name": "FredTsang",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/17154608?v=4",
+      "profile": "https://github.com/FredZeng",
+      "contributions": [
+        "review"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7
+}
