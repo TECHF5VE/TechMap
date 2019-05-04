@@ -1,5 +1,9 @@
 # CONTRIBUTE
-## Commit Message Format
+## Task命名规范
+- 每个Task应以文件夹划分，命名时以`task`为前缀，`_`分隔，数字为后缀
+- 每个Task中应包含一个默认的`README.md`文件
+
+## Commit规范
 type : subject
 ### Type
 Must be one of the following:
