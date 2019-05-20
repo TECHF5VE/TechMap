@@ -2,6 +2,8 @@
 
 ## 本次作业计划用时三周,期间每周末交流各位的进度和遇到的问题。五一节休假结束前，展示你的成果吧:)
 
+### 本次作业若遇到任何问题，[都可在此issue中讨论](https://github.com/TECHF5VE/TechMap/issues/7)。
+
 Author： Minoyu 于 2019/04/02
 
 ---
@@ -16,11 +18,11 @@ Author： Minoyu 于 2019/04/02
 
 ### 1.选用你所喜欢的IDE :)
 
-在这里我推荐两个编辑器VScode和Webstorm，并更强烈推荐使用较为轻量性能更高的前者。
+在这里我推荐两个编辑器**VSCode**和**Webstorm**，并更强烈推荐使用较为轻量性能更高的前者。
 
 #### 安装
 
-[https://www.visualstudio.com/downloads/](https://www.visualstudio.com/downloads/)
+[VSCode](https://code.visualstudio.com/)
 
 #### 一些VScode实用插件推荐
 
@@ -42,11 +44,11 @@ Author： Minoyu 于 2019/04/02
 
 这一部分我推荐的是一个慕课网的HTML+CSS课程，可以边学边做。
 
-[https://www.imooc.com/learn/9](https://www.imooc.com/learn/9)
+[初识HTML+CSS](https://www.imooc.com/learn/9)
 
-请各位学习慕课网的这套教程哦，我们将在每周末让各位的发学习进度的截图大pk :)　当时我看完这套课程比较仔细大概用时19小时。
+请各位学习慕课网的这套教程哦，我们将在每周末进行各位的学习进度的截图大pk :)，并讨论遇到的问题，当时我看完这套课程比较仔细大概用时19小时。
 
-![进度](image/week1-3-1.png)
+![进度](../image/week1-3-1.png)
 
 ### 3.迈出JavaScript的第一步
 
@@ -67,9 +69,11 @@ Author： Minoyu 于 2019/04/02
 
 通过这一阶段的学习,相信你的收获已经不少了。下面是这一阶段你需要完成的成果展示，希望你可以用心去完成。
 
-### **制作一个简单的个人名片页 展示你自己**
+### **制作一个简单的个人名片页 尽可能的展示你自己**
 
-请尽可能的在这个项目中展示出你在这三周内所学到的知识，你可以放在github page上作为你的个人主页展示,Happy coding~
+请尽可能的在这个项目中展示出你在这三周内所学到的知识。同时，尽可能的炫技不代表眼花缭乱，我们希望你的个人页面可以设计的简洁大方。***完美不是无可附加，而是无处可减。***
+
+你可以放在github page上作为你的个人主页展示,Happy coding~
 
 ---
 

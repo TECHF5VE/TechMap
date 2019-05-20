@@ -1,4 +1,8 @@
 {
+  "projectName": "TechMap",
+  "projectOwner": "TECHF5VE",
+  "repoType": "github",
+  "repoHost": "https://github.com",
   "files": [
     "README.md"
   ],
@@ -66,9 +70,5 @@
       ]
     }
   ],
-  "contributorsPerLine": 7,
-  "projectName": "TechMap",
-  "projectOwner": "Minoyu",
-  "repoType": "github",
-  "repoHost": "https://github.com"
+  "contributorsPerLine": 7
 }
