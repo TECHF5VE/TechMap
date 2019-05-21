@@ -18,11 +18,11 @@ Author： Minoyu 于 2019/04/02
 
 ### 1.选用你所喜欢的IDE :)
 
-在这里我推荐两个编辑器VScode和Webstorm，并更强烈推荐使用较为轻量性能更高的前者。
+在这里我推荐两个编辑器**VSCode**和**Webstorm**，并更强烈推荐使用较为轻量性能更高的前者。
 
 #### 安装
 
-[https://www.visualstudio.com/downloads/](https://www.visualstudio.com/downloads/)
+[VSCode](https://code.visualstudio.com/)
 
 #### 一些VScode实用插件推荐
 
@@ -44,11 +44,11 @@ Author： Minoyu 于 2019/04/02
 
 这一部分我推荐的是一个慕课网的HTML+CSS课程，可以边学边做。
 
-[https://www.imooc.com/learn/9](https://www.imooc.com/learn/9)
+[初识HTML+CSS](https://www.imooc.com/learn/9)
 
 请各位学习慕课网的这套教程哦，我们将在每周末进行各位的学习进度的截图大pk :)，并讨论遇到的问题，当时我看完这套课程比较仔细大概用时19小时。
 
-![进度](image/week1-3-1.png)
+![进度](../image/week1-3-1.png)
 
 ### 3.迈出JavaScript的第一步
 
