@@ -6,9 +6,9 @@
 
 ## 目前此处存放
 
-### [2019春季招新考核Task](2019-spring)
+### [2019秋季招新考核Task](2019-autumn)
 
-* [前端小组](2019-spring/frontend)
+* [前端小组](2019-Autumn/Frontend)
 * [后端小组](2019-spring/backend)
 * [操作系统](2019-spring/os)
 * [Python/爬虫](2019-spring/python)
