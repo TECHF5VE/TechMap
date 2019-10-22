@@ -32,6 +32,38 @@
 
 至于用什么软件写和看 md 文件，推荐下面的 VSCode
 
+## IDE
+
+vscode 是 github 上一个免费开源项目，它非常适合前端的代码编写，并且提供广泛的插件，我们也不是强制让你们使用这个软件，如果你有其他更适合的软件，可以自己使用，当然，也可以分享出来
+
+[VSCode下载](https://code.visualstudio.com/)
+
+### 推荐一些 vscode 的插件
+
++ HTML Snippets (超级实用且初级的 H5代码片段以及提示)
+
++ HTML CSS Support (让 html 标签上写class 智能提示当前项目所支持的样式)
+
++ Debugger for Chrome (配置有些麻烦，让 vscode 映射 chrome 的 debug功能，静态页面都可以用 vscode + 打断点调试。)
+
++ vscode-icon　(让 vscode 资源树目录加上图标)
+
++ Path Intellisense (自动路劲补全)
+
++ Document this (js注释模板 注意：新版的vscode已经原生支持,在function上输入/** tab)
+
++ ESlint (ESlint 接管原生 js 提示，可以自定制提示规则)
+
++ HTMLHint (html代码检测)
+
++ beautify (格式化代码的工具)
+
++ Git History (view git log)
+
++ filesize (在底部状态栏显示当前文件大小)
+
++ Bracket Pair Colorizer (让括号拥有独立的颜色，易于区分。)
+
 ## 结语
 
 希望大家在加入 TECHF5VE 这个大家庭后能提升自己的技术，实现自己的梦想
