@@ -6,7 +6,7 @@
 
 ## 目前此处存放
 
-### [2019秋季招新考核Task](2019-autumn)
+### [2019秋季招新考核Task](2019-Autumn)
 
 * [前端小组](2019-Autumn/Frontend)
 * [后端小组](2019-spring/backend)
