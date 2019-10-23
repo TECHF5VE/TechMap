@@ -12,7 +12,7 @@
 
 ## 推荐资料链接
 
-+ [ W3Cschool入门教程](https://developer.mozilla.org/zh-CN/)
++ [ W3Cschool入门教程](https://www.w3cschool.cn/tutorial)
 
 + [菜鸟教程](https://www.runoob.com/)
 
