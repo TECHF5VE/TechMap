@@ -9,10 +9,10 @@
 ### [2019秋季招新考核Task](2019-Autumn)
 
 * [前端小组](2019-Autumn/Frontend)
-* [后端小组](2019-spring/backend)
-* [操作系统](2019-spring/os)
-* [Python/爬虫](2019-spring/python)
-* [每周选做题](2019-spring/extra)
+* [后端小组](2019-Autumn/Backend)
+* [Python/爬虫](2019-Autumn/Python)
+* [Linux小组](2019-Autumn/Linux)
+* [游戏小组]()
 
 ## Task提交
 
