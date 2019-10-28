@@ -2,7 +2,9 @@
 
 ## 任务目录
 
-1. [第1周学习任务 了解Git](./task_01/README.md)
+1. [第1次任务 了解Git](./task_01/README.md)
+
+2. [第2次任务 走进前端的大门](./task_02/README.md)
 
 # 首先
 
