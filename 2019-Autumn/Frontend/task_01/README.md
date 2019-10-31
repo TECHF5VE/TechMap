@@ -2,10 +2,17 @@
 
 ## 任务要求
 
-1. 创建一个 [Github](https://github.com/TECHF5VE/TechMap-Works) 账号
+1. 创建一个 [Github](https://github.com) 账号
 2. 掌握 `Markdown` 基本语法
 3. 掌握 `Git` 用法
-4. 向 [任务仓库](https://github.com/TECHF5VE/TechMap-Works) 提交 PR（pull request）
+4. 向 [任务仓库](https://github.com/TECHF5VE/TechMap-Works) 提交 PR（pull request），内容如下：
+
+```
+1. 在 `2019-Autumn` 目录下找到自己的小组，如 `Frontend`，以英文名创建自己的目录（最好以姓名拼音每个字首字母命名），之后的任务都提交至该目录下
+2. 在该目录下创建一个名为 `task_01.md` 的文件
+3. 在此文件中用你所学的 `Markdown` 语法，按一定的排版介绍你自己
+4. 提交至个人仓库，然后向 [任务仓库] PR
+```
 
 截止时间：**11月4日**
 
