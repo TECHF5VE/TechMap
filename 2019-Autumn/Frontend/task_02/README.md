@@ -16,7 +16,7 @@
 
 4. 将源码及效果图向 [任务仓库](https://github.com/TECHF5VE/TechMap-Works) 提交 PR（pull request）
 
-预计时间：3周
+截止日期：11月25日
 
 # 学习资料
 
