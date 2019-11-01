@@ -50,5 +50,5 @@ __注： 起始时间为该md文档上传至[仓库](https://github.com/TECHF5VE
 ### 参考资料
 - [数据结构可视化学习工具网站](https://visualgo.net/zh)
 - [中国大学MOOC](https://www.icourse163.org/)
-- [大话数据结构 提取码：Z8K9](https://pan.baidu.com/share/init?surl=IbrzXB0Truoy0roFiSIM3w)
+- [大话数据结构 提取码：Z8K9](https://pan.baidu.com/s/1IbrzXB0Truoy0roFiSIM3w)
 - [手把手教你从0开始搭建自己的个人博客 |无坑版视频教程| hexo](https://www.bilibili.com/video/av44544186?from=search&seid=9598797698914573217)
