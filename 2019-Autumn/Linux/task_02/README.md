@@ -22,6 +22,7 @@
   - [使用SSH服务管理远程主机](https://www.linuxprobe.com/chapter-09.html)
 
 - 了解VMvare/VBox的网络模型，仅作了解（仅主机模式，NAT模式，桥接模式）
+- 截止日期：11月25日
   
 ### 其他
 
