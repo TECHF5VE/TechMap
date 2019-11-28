@@ -8,7 +8,7 @@
 
 4. 将源码和效果图放入自己仓库，PR（pull request）一个 `task_03.md` 到 [任务仓库](https://github.com/TECHF5VE/TechMap-Works)
 
-截止日期：12月23日
+截止日期：2月3日
 
 ## 任务内容须知
 
