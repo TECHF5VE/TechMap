@@ -5,6 +5,7 @@
 1. [第1周学习任务 了解Git](./task_01/README.md)
 2. [第2周学习任务 python基础一](./task_02/README.md)
 3. [第3周学习任务 链表，python基础二](./task_03/README.md)
+4. [第四周学习任务 链表，面向对象](./task_04/README.md)
 
 ## 想说的话
 
