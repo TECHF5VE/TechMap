@@ -6,6 +6,7 @@
 2. [第2次学习任务 python基础一](./task_02/README.md)
 3. [第3次学习任务 链表，python基础二](./task_03/README.md)
 4. [第4次学习任务 链表，面向对象](./task_04/README.md)
+5. [第5次学习任务 小游戏/爬虫](./task_05/README.md)
 
 ## 想说的话
 
