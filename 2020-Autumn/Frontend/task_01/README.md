@@ -1,51 +1,56 @@
-# Git 入门到精通
+# Git & Markdown
 
 ## 任务要求
 
-1. 创建一个 [Github](https://github.com) 账号
+1. 了解什么是 `Git`
+  1.1 `Git` 历史/作用
+  1.2 `Git` 分哪些区
+  1.3 什么是本地仓库，什么是远程仓库
+  1.4 了解什么是 `Github`，及其常见工作流
+  1.5 掌握 `Git` 常用命令（如何在各个区之间改变文件状态）
 2. 掌握 `Markdown` 基本语法
-3. 掌握 `Git` 用法
-4. 向 [任务仓库](https://github.com/TECHF5VE/TechMap-Works) 提交 PR（pull request），内容如下：
 
-```
-1. 在 `2020-Autumn` 目录下找到自己的小组，如 `Frontend`，以英文名创建自己的目录（最好以姓名拼音每个字首字母命名），之后的任务都提交至该目录下
-2. 在该目录下创建一个名为 `task_01.md` 的文件
-3. 在此文件中用你所学的 `Markdown` 语法，按一定的排版介绍你自己
-4. 提交至个人仓库，然后向 [任务仓库] PR
-```
+## 任务内容
 
-截止时间：**11 月 8 日**
+1. 注册`Github`账号，在电脑上安装 `Git`；
+2. `Fork`我们的[任务提交仓库](https://github.com/TECHF5VE/TechMap-Works)，并将该仓库`clone`到本地；
+3. 本地项目中，在 `2020-Autumn` 目录下找到自己的小组（如 `Frontend`），然后以英文名创建自己的目录（最好以姓名拼音每个字首字母命名），之后的任务都提交至该目录下；
+4. 在你创建的目录下新建一个名为 `task_01.md` 的文件，并在该文件中使用你所掌握的`Markdown`语法，按一定的排版介绍你自己（须至少使用3种及以上语法）；
+5. 将本地修改推送至个人远程仓库后，向[任务提交仓库](https://github.com/TECHF5VE/TechMap-Works)发起`PR`，等待相关人员`Review`。
 
-任何疑问可在群聊中提出。
+我们会在你的`PR`发起后，尽快进行`Review`，符合要求的`PR`将会被接受并合并进主分支；不符合要求的我们会视情况在`PR`下面进行评论并指出问题，待修改后继续`Review`。
 
-# 学习资料
+**`PR`被接受，说明本次任务提交成功**
 
-## Git
 
-[廖雪峰的 Git 教程](https://www.liaoxuefeng.com/wiki/896043488029600)
+## 参考资料
 
-这个教程是非常实用的，我希望你们能认真学习这个教程，如果你能读完这个教程，那么你对 git 就基本入门了
+### Git
 
-## Markdown
++ [廖雪峰的 Git 教程](https://www.liaoxuefeng.com/wiki/896043488029600) - 这个教程是非常实用的，我希望你们能认真学习这个教程，如果你能读完这个教程，那么你对 git 就基本入门了
 
-再然后，相信你们也是接触过 word 的，固然 word 非常实用，但你们有没有感觉到 word 的缺陷，如果一个首次接触 word 的人，他是否能够直接上手呢，可能他会为了美观效果去百度，为了段落的行间距过小去找哪里可以改变行间距。
++ [慕课网视频教程](https://www.imooc.com/learn/1278)
 
-但是对于一个追求技术的人来说，word 太过繁琐，操作相对比较复杂，所以我们建议学习 markdown 这门语法来书写你的博客、文档，并且在实际项目中，md 文件也是应用相当广泛的。
++ [Git 和 Github 是什么关系 - 知乎](https://www.zhihu.com/question/21907548)
 
-[推荐的 markdown 教程](https://www.jianshu.com/p/191d1e21f7ed)
-[菜鸟教程](https://www.runoob.com/markdown/md-tutorial.html)
++ [GitHub 是怎样的一个存在？ - 知乎](https://www.zhihu.com/question/28976652)
 
-这是我在网上找的一个教程，你们也可以在网上寻找相关的资料
++ [怎样使用 Github - 知乎](https://www.zhihu.com/question/20070065)
 
-至于用什么软件写和看 md 文件，推荐下面的 VSCode
++ [Git 工作流指南](https://github.com/xirong/my-git/blob/master/git-workflow-tutorial.md)
 
-## IDE
+### Markdown
 
-`VSCode` 是 Github 上一个免费开源项目，它非常适合前端的代码编写，并且提供广泛的插件，我们也不是强制让你们使用这个软件，如果你有其他更适合的软件，可以自己使用，当然，也可以分享出来
++ [推荐的 markdown 教程](https://www.jianshu.com/p/191d1e21f7ed)
 
-[VSCode 下载](https://code.visualstudio.com/)
++ [菜鸟教程](https://www.runoob.com/markdown/md-tutorial.html)
 
-### 推荐一些 vscode 的插件
+
+### IDE
+
++ [VSCode](https://code.visualstudio.com/)
+
+### VSCode 插件
 
 - HTML Snippets (超级实用且初级的 H5 代码片段以及提示)
 
@@ -64,6 +69,12 @@
 - filesize (在底部状态栏显示当前文件大小)
 
 - Bracket Pair Colorizer (让括号拥有独立的颜色，易于区分。)
+
+- GitLens
+
+- Markdown Preview Enhanced
+
+- Explorer Exclude
 
 ## 结语
 
