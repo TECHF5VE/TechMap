@@ -18,6 +18,7 @@
 - [响应式web原则](https://learn.freecodecamp.one/)
 - [CSS弹性盒子](https://learn.freecodecamp.one/)
 - [项目实战](https://learn.freecodecamp.one/)
+- 搭建自己的博客(选)
 
 ![任务要求](./images/任务要求.png)
 
@@ -30,12 +31,14 @@
 - [HTML和CSS相关教程](https://www.imooc.com/learn/9)
 - [MDN中文文档](https://developer.mozilla.org/zh-CN/)
 - 其他(比如bi站视频等)
+- 博客的搭建教程很多，大家自行搜索
 
 ## 任务要求
 
 - [提交地址](https://github.com/TECHF5VE/TechMap-Works/tree/master/2020-Autumn/Frontend/Task-2)
 - 在[CodePen](https://codepen.io/)创建账号，完成上述项目
 - 提交任务时，需要每完成一个项目提交一次，[例](https://github.com/TECHF5VE/TechMap-Works/tree/master/2020-Autumn/Frontend/Task-2/hamono)
+- 博客可以采用`hexo`框架，建议自己买个域名
 
 ## 其他
 
