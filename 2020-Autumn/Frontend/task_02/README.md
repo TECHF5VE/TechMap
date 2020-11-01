@@ -35,9 +35,9 @@
 
 ## 任务要求
 
-- [提交地址](https://github.com/TECHF5VE/TechMap-Works/tree/master/2020-Autumn/Frontend/Task-2)
+- [提交地址](https://github.com/TECHF5VE/TechMap-Works/tree/master/2020-Autumn/Frontend/task_02)
 - 在[CodePen](https://codepen.io/)创建账号，完成上述项目
-- 提交任务时，需要每完成一个项目提交一次，[例](https://github.com/TECHF5VE/TechMap-Works/tree/master/2020-Autumn/Frontend/Task-2/hamono)
+- 提交任务时，需要每完成一个项目提交一次，[例](https://github.com/TECHF5VE/TechMap-Works/tree/master/2020-Autumn/Frontend/task_02/hamono)
 - 博客可以采用`hexo`框架，建议自己买个域名
 
 ## 其他
