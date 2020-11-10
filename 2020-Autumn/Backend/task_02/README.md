@@ -37,6 +37,11 @@ __注： 起始时间为该md文档上传至[仓库](https://github.com/TECHF5VE
    
    [1,2,2,3,5,6,8]
 
+   参考提交函数格式
+   void merge(int* a, int m, int* b,int n){
+      //code
+    }
+
   ```
 2.给定一个 n × n 的二维数组表示的一个矩阵，将其顺时针旋转 90 度。
 
@@ -57,10 +62,32 @@ __注： 起始时间为该md文档上传至[仓库](https://github.com/TECHF5VE
       [9,6,3]
     ]
 
+    参考提交函数格式
+    void rotate(int** matrix, int n){
+      //code
+    }
+
 ```
 3.给定已知长度的数组,使用指针遍历数组。
+```
+
+    参考提交函数格式
+    void traversal1(int* a, int n){
+      //code
+    }
+
+```
 
 4.给定参数n，返回一个长度为n的动态数组，并为其赋值1，2，3，4...至n。
+
+```
+
+    参考提交函数格式
+    int* createArray(int n){
+      //code
+    }
+
+```
     
 5.给定参数m,n，返回一个m行n列的动态数组，并为其赋值1，2，3，4...至m*n。
   ```
@@ -71,6 +98,11 @@ __注： 起始时间为该md文档上传至[仓库](https://github.com/TECHF5VE
       [4,5,6],
       [7,8,9]
     ],
+
+      参考提交函数格式
+      int** createArray(int n，int m){
+      //code
+    }
 
 ```
 
