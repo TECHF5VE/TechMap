@@ -118,7 +118,7 @@ void moveZeroes(int* nums, int length){
 解释：一共有 4 个好三元组：[(3,0,1), (3,0,1), (3,1,1), (0,1,1)] 。
 
 参考提交函数格式
-int countGoodTriplets(int* arr,int length, int a, int * arr,int lengthb, int c) {
+int countGoodTriplets(int* arr,int length, int a,int b, int c) {
 //code
 }
 ```
