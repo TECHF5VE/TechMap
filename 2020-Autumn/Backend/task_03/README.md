@@ -37,8 +37,8 @@ __注： 起始时间为该md文档上传至[仓库](https://github.com/TECHF5VE
 
 - 最好能实现时间复杂度 O(log₂N)
 
-```
-参考提交函数格式
+```cpp
+//参考提交函数格式
 int findNumberInArray(int* arr,int length,int target) {
 //code
 }
@@ -46,14 +46,14 @@ int findNumberInArray(int* arr,int length,int target) {
 
 2.统计位数为偶数的数字：给你一个整数数组 `nums`，请你返回其中位数为 **偶数** 的数字的个数。
 
-```
-样例：
-输入：nums = [12,345,2,6,7896]
-输出：2
-解释：
-因此只有 12 和 7896 是位数为偶数的数字
+```cpp
+//样例：
+//输入：nums = [12,345,2,6,7896]
+//输出：2
+//解释：
+//因此只有 12 和 7896 是位数为偶数的数字
 
-参考提交函数格式
+//参考提交函数格式
 int findNumbers(int* nums,int length) {
 //code
 }
@@ -65,18 +65,18 @@ int findNumbers(int* nums,int length) {
 
 - 最好能实现时间复杂度O(n+m)
 
-```
-样例：
-[
-  [1,   4,  7, 11, 15],
-  [2,   5,  8, 12, 19],
-  [3,   6,  9, 16, 22],
-  [10, 13, 14, 17, 24],
-  [18, 21, 23, 26, 30]
-]
-给定 target = 5，返回 true。
-给定 target = 20，返回 false。
-参考提交函数格式
+```cpp
+//样例：
+//[
+//  [1,   4,  7, 11, 15],
+//  [2,   5,  8, 12, 19],
+//  [3,   6,  9, 16, 22],
+//  [10, 13, 14, 17, 24],
+//  [18, 21, 23, 26, 30]
+//]
+//给定 target = 5，返回 true。
+//给定 target = 20，返回 false。
+//参考提交函数格式
 bool findNumberIn2DArray(int** matrix,int n,int m, int target) {
 //code
 }
@@ -88,14 +88,14 @@ bool findNumberIn2DArray(int** matrix,int n,int m, int target) {
 
    - 要求必须在原数组上操作，不能拷贝额外的数组。
 
-   ```
-样例:
-输入: nums=[0,1,0,3,12],length=5
+   ```cpp
+//样例:
+//输入: nums=[0,1,0,3,12],length=5
 
-输出: [1,3,12,0,0]
+//输出: [1,3,12,0,0]
 
 
-参考提交函数格式
+//参考提交函数格式
 void moveZeroes(int* nums, int length){
 //code
 }
@@ -104,20 +104,20 @@ void moveZeroes(int* nums, int length){
 
 5.统计好三元组：
 
-```
-如果三元组 (arr[i], arr[j], arr[k]) 满足下列全部条件，则认为它是一个 好三元组 。
-0 <= i < j < k < arr.length
-|arr[i] - arr[j]| <= a
-|arr[j] - arr[k]| <= b
-|arr[i] - arr[k]| <= c
-其中 |x| 表示 x 的绝对值。
+```cpp
+//如果三元组 (arr[i], arr[j], arr[k]) 满足下列全部条件，则认为它是一个 好三元组 。
+//0 <= i < j < k < arr.length
+//|arr[i] - arr[j]| <= a
+//|arr[j] - arr[k]| <= b
+//|arr[i] - arr[k]| <= c
+//其中 |x| 表示 x 的绝对值。
 
-样例：
-输入：arr = [3,0,1,1,9,7], a = 7, b = 2, c = 3
-输出：4
-解释：一共有 4 个好三元组：[(3,0,1), (3,0,1), (3,1,1), (0,1,1)] 。
+//样例：
+//输入：arr = [3,0,1,1,9,7], a = 7, b = 2, c = 3
+//输出：4
+//解释：一共有 4 个好三元组：[(3,0,1), (3,0,1), (3,1,1), (0,1,1)] 。
 
-参考提交函数格式
+//参考提交函数格式
 int countGoodTriplets(int* arr,int length, int a,int b, int c) {
 //code
 }
@@ -129,8 +129,8 @@ int countGoodTriplets(int* arr,int length, int a,int b, int c) {
 
 - 最好能实现时间复杂度不为O(n²)
 
-```
-参考提交函数格式
+```cpp
+//参考提交函数格式
 void sort(int* arr,int length){
 //code
 }
@@ -143,13 +143,13 @@ void sort(int* arr,int length){
 - 时间复杂度为：O(N),N为数组长度
 - 空间复杂度为：O(N),N为数组长度
 
-```
-给定一个无序的数组，找出数组在排序之后，相邻元素之间最大的差值。
-如果数组元素个数小于 2，则返回 0。
-样例：
-输入: [3,6,9,1]
-输出: 3
-解释: 排序后的数组是 [1,3,6,9], 其中相邻元素 (3,6) 和 (6,9) 之间都存在最大差值 3。
+```cpp
+//给定一个无序的数组，找出数组在排序之后，相邻元素之间最大的差值。
+//如果数组元素个数小于 2，则返回 0。
+//样例：
+//输入: [3,6,9,1]
+//输出: 3
+//解释: 排序后的数组是 [1,3,6,9], 其中相邻元素 (3,6) 和 (6,9) 之间都存在最大差值 3。
 int maximumGap(int* nums,int length) {
 //code
 }
