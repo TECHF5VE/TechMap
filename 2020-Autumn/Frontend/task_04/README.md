@@ -4,7 +4,7 @@
 
 ## 作业内容
 
-1. 完成该页面[QQ注册页](https://ssl.zc.qq.com/v3/index-en.html)
+1. 完成该页面[QQ注册页](https://ssl.zc.qq.com/v3/index-chs.html?type=0)
 2. 搭建自己博客
 3. 将遇到的问题及解决方法写到博客里，没有解决的同样记录
 4. 在博客中添加自己2021的目标，比如学...、看完...等
