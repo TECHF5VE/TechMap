@@ -6,12 +6,13 @@
 
 ## 目前此处存放
 
-### [2020 秋季纳新考核 Task](2020-Autumn)
+### [2021 秋季纳新考核 Task](2021-Autumn)
 
-- [前端小组](2020-Autumn/Frontend)
-- [后端小组](2020-Autumn/Backend)
-- [Python/爬虫](2020-Autumn/Python)
+- [前端小组](2021-Autumn/Frontend)
+- [后端小组](2021-Autumn/Backend)
+- [Python/爬虫](2021-Autumn/Python)
 
+### ~~[2020 秋季纳新考核 Task](2020-Autumn)~~
 ### ~~[2019 秋季纳新考核 Task](2019-Autumn)~~
 ### ~~[2019 春季纳新考核 Task](2019-Spring)~~
 
