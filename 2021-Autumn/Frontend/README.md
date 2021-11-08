@@ -6,6 +6,10 @@
 
 ---
 
+## 基础阶段
+
+1. [HTML & CSS](./task_02/README.md) **截止时间: 11.22**
+
 推荐资料：
 
 - [JavaScript 标准参考教程](https://javascript.ruanyifeng.com/)
