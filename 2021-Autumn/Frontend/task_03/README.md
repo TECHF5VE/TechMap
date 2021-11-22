@@ -34,7 +34,7 @@
    - 针对上一次任务中的调差问卷：做一个form表单的提交验证机制（点击提交按钮后，用JS捕获，手动验证邮箱/手机号码的正确性，对不正确的提交alert弹窗/console提示，对正确的提交alert弹窗/console显示表单对应的JSON）
    - 例如：`{"username":"tagbug","password":"qqqqaaaaa","sex":"男","email":"1242135295@qq.com","phone":"15811112222"}`
 3. 附加篇（选做）
-   - 给出后端API，比如(http://example.com/api/getPosts)，接收后端API返回的JSON对象，比如`{"success":true,"msg":"success","data":[{"title":"文章1","content":"# Hello, world!"},{},...]}`，将其在页面上渲染为markdown文档，要求必须动态渲染，且有加载过程、异常处理以及用户提示信息
+   - 给出后端API，比如 http://example.com/api/getPosts ，接收后端API返回的JSON对象，比如`{"success":true,"msg":"success","data":[{"title":"文章1","content":"# Hello, world!"},{},...]}`，将其在页面上渲染为markdown文档，要求必须动态渲染，且有加载过程、异常处理以及用户提示信息
    - 其实就是做个博客的雏形，如果有自己的想法也可以自己实现，比方说做个动态的留言板啥的...
    - 如果需要提供后端API可以联系我，或者自己整个服务器试试
 
