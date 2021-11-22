@@ -10,11 +10,15 @@
 
 1. [HTML & CSS](./task_02/README.md) **截止时间: 11.22**
 
+2. [JavaScript](./task_03/README.md) **截止时间：12.20**
+
 推荐资料：
 
 - [JavaScript 标准参考教程](https://javascript.ruanyifeng.com/)
 
 - [ES6 入门教程](https://es6.ruanyifeng.com/)
+
+- [MDN中文文档](https://developer.mozilla.org/zh-CN/docs/Web)
 
 推荐书籍：
 
