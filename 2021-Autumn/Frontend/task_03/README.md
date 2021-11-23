@@ -34,16 +34,31 @@
    - 针对上一次任务中的调差问卷：做一个form表单的提交验证机制（点击提交按钮后，用JS捕获，手动验证邮箱/手机号码的正确性，对不正确的提交alert弹窗/console提示，对正确的提交alert弹窗/console显示表单对应的JSON）
    - 例如：`{"username":"tagbug","password":"qqqqaaaaa","sex":"男","email":"1242135295@qq.com","phone":"15811112222"}`
 3. 附加篇（选做）
-   - 给出后端API，比如 http://example.com/api/getPosts ，接收后端API返回的JSON对象，比如`{"success":true,"msg":"success","data":[{"title":"文章1","content":"# Hello, world!"},{},...]}`，将其在页面上渲染为markdown文档，要求必须动态渲染，且有加载过程、异常处理以及用户提示信息
-   - 其实就是做个博客的雏形，如果有自己的想法也可以自己实现，比方说做个动态的留言板啥的...
-   - 如果需要提供后端API可以联系我，或者自己整个服务器试试
+   1. 思考题
+      - 试试`0.1 + 0.2 == 0.3`的结果是什么，并查阅资料、思考&总结
+      - 思考：
+      - ```js
+        let str = new String('abc');
+        console.log(str.toUpperCase()); // 'ABC'
+        str.test = function(){ return 'test' }
+        console.log(str.test); // f() { return 'test' }
+        
+        let anotherStr = String('abc');
+        console.log(anotherStr.toUpperCase()); // 'ABC'
+        anotherStr.test = function(){ return 'test' }
+        console.log(anotherStr.test); // undefined  Why??
+        ```
+   2. 综合应用题
+      - 给出后端API，比如 http://example.com/api/getPosts ，接收后端API返回的JSON对象，比如`{"success":true,"msg":"success","data":[{"title":"文章1","content":"# Hello, world!"},{},...]}`，将其在页面上渲染为markdown文档，要求必须动态渲染，且有加载过程、异常处理以及用户提示信息
+      - 其实就是做个博客的雏形，如果有自己的想法也可以自己实现，比方说做个动态的留言板啥的...
+      - 如果需要提供后端API可以联系我，或者自己整个服务器试试
 
 ## 任务要求
 
-- 提交任务时，需要将算法篇、DOM篇、提高篇的内容分成三个markdown文档
+- 提交任务时，需要将算法篇、DOM篇、附加篇的内容分成三个markdown文档
 - 算法篇的内容要求以markdown文档的形式提交你的算法，并有清楚的题目间隔和适当的注释，最好可以写写思路啥的，请确保在leetcode上已通过
 - DOM篇的内容要求还是在CodePen上写（单独开项目），并按照上次的格式提交
-- 提高篇的内容可以在CodePen上或者自己的服务器上，CodePen请按照格式，服务器上的话就换成对应的URL即可，格式不变
+- 附加篇的内容可以在CodePen上或者自己的服务器上，CodePen请按照格式，服务器上的话就换成对应的URL即可，格式不变
 
 ## 参考资料
 
