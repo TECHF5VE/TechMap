@@ -35,19 +35,19 @@
    - 例如：`{"username":"tagbug","password":"qqqqaaaaa","sex":"男","email":"1242135295@qq.com","phone":"15811112222"}`
 3. 附加篇（选做）
    1. 思考题
-      - 试试`0.1 + 0.2 == 0.3`的结果是什么，并查阅资料、思考&总结
-      - 思考：
-      - ```js
-        let str = new String('abc');
-        console.log(str.toUpperCase()); // 'ABC'
-        str.test = function(){ return 'test' }
-        console.log(str.test); // f() { return 'test' }
-        
-        let anotherStr = String('abc');
-        console.log(anotherStr.toUpperCase()); // 'ABC'
-        anotherStr.test = function(){ return 'test' }
-        console.log(anotherStr.test); // undefined  Why??
-        ```
+      1. 按照加法常识来说，我们知道：0.1 + 0.2的结果应该是0.3，所以在代码中：`0.1 + 0.2 == 0.3`的结果应该是`true`，然而事实似乎并非如此，你可以自己试试，在js或java或者其他编程语言中写这样一段代码，验证一下是否符合你的预期。你可能会惊讶的发现，在某些语言中，计算结果是符合你预期的，然而在另一些语言中，却发生了违背常识的事，你可以查阅资料，思考&总结。
+      2. 通过对js的学习，我们知道字符串、数字等基本类型变量也可以调用方法他们自己的方法，就像对象一样，比如：`'aa'.toUpperCase()`，然而你真的了解基本类型调用方法的内部细节吗，思考：
+         ```js
+         let str = new String('abc');
+         console.log(str.toUpperCase()); // 'ABC'
+         str.test = function(){ return 'test' }
+         console.log(str.test); // f() { return 'test' }
+         
+         let anotherStr = String('abc');
+         console.log(anotherStr.toUpperCase()); // 'ABC'
+         anotherStr.test = function(){ return 'test' }
+         console.log(anotherStr.test); // undefined  Why??
+         ```
    2. 综合应用题
       - 给出后端API，比如 http://example.com/api/getPosts ，接收后端API返回的JSON对象，比如`{"success":true,"msg":"success","data":[{"title":"文章1","content":"# Hello, world!"},{},...]}`，将其在页面上渲染为markdown文档，要求必须动态渲染，且有加载过程、异常处理以及用户提示信息
       - 其实就是做个博客的雏形，如果有自己的想法也可以自己实现，比方说做个动态的留言板啥的...
