@@ -18,8 +18,6 @@
 - 附加：学习ES6、学习异步编程（主要是Promise）、了解ECMAScript
 - 附加：学习JSON、了解网络请求相关API（XMLHttpRequest和Fetch）
 
-## 任务时间 11.22-12.20
-
 ## 任务内容
 
 1. 算法篇

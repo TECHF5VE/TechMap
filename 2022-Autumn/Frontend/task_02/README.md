@@ -17,8 +17,6 @@
 - 附加：掌握`flex`布局
 - 附加：了解HTML5和CSS3
 
-## 任务时间 11.08-11.22
-
 ## 任务内容
 
 - [基础HTML和HTML5](https://chinese.freecodecamp.org/learn/responsive-web-design/#basic-html-and-html5)
