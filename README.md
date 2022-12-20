@@ -5,12 +5,10 @@
 欢迎加入 TECH5，这里是 TECH5 新成员的阶段性考核 Task 仓库。希望你通过完成在这里提供的任务/Task 来快速成长。
 
 ## 目前此处存放
+### [2022 秋季纳新考核 Task](2022-Autumn)
 
-### [2021 秋季纳新考核 Task](2021-Autumn)
-
-- [前端小组](2021-Autumn/Frontend)
-- [后端小组](2021-Autumn/Backend)
-- [Python/爬虫](2021-Autumn/Python)
+- [后端小组](2022-Autumn/Backend)
+### ~~[2021 秋季纳新考核 Task](2021-Autumn)~~
 
 ### ~~[2020 秋季纳新考核 Task](2020-Autumn)~~
 ### ~~[2019 秋季纳新考核 Task](2019-Autumn)~~
