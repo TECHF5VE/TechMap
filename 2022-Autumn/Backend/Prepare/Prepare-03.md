@@ -51,9 +51,10 @@
 
 ## 课后习题&参考资料
 
-1. 新建一个使用git管理的项目，使用Java、Node.js、Go、Python其中一门语言，编写一个add程序，打包发布到对应的包管理平台，告诉我你发布的包是什么，我会install来试用一下
+1. 新建一个使用git管理的项目，可以使用任意语言，写一个可以使用的程序（可以是一个只有main函数的hello world）
 2. 把第一问中你写的项目，上传到GitHub，告诉我上传后的项目地址
 3. 给我的GitHub账号[FMusher0011](https://github.com/DominikYang)点一个follow（**不点不算做完作业**）
+4. **扩展，可以不做**新建一个使用git管理的项目，使用Java、Node.js、Go、Python其中一门语言，编写一个add程序，打包发布到对应的包管理平台，告诉我你发布的包是什么，我会install来试用一下
 
 参考资料：
 
@@ -61,5 +62,4 @@
 + [git 在 VS Code中使用](https://zhuanlan.zhihu.com/p/276376558) - git GUI版本教学
 + [git 官方指南 pro git](https://git-scm.com/book/zh/v2) - 官方的总是最好的
 + [一分钟上手GitHub](https://www.githubs.cn/post/github-overview) - Github基本使用教学
-+ 第一问可以参考我的demo（ https://github.com/DominikYang/npm-publish-package-test ） 来实现
-
++ 第一、四问可以参考我的demo（ https://github.com/DominikYang/npm-publish-package-test ） 来实现
