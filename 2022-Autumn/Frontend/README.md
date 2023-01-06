@@ -38,6 +38,10 @@
 
 - [ObjTube（就是下面的学习路线图）](https://objtube.github.io/front-end-roadmap/#/)
 
+推荐软件：
+
+- [Sourcetree](https://www.sourcetreeapp.com/) git 可视化工具
+
 学习线路推荐：
 
 - 中文版：https://objtube.github.io/front-end-roadmap/#/
