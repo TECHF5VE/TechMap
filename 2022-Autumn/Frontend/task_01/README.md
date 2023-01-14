@@ -46,7 +46,7 @@
 
 - 必读： [廖雪峰的 Git 教程](https://www.liaoxuefeng.com/wiki/896043488029600) - 这个教程是非常实用的，我希望你们能认真学习这个教程，如果你能读完这个教程，那么你对 git 就基本入门了
 
-- 必读： [github 精品 git 教程](https://github.com/xirong/my-git/blob/master/git-workflow-tutorial.md)
+- 必读： [Git 工作流](https://github.com/xirong/my-git/blob/master/git-workflow-tutorial.md)
 
 - 选读： [慕课网视频教程](https://www.imooc.com/learn/1278)
 
